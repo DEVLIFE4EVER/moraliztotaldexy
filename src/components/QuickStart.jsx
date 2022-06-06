@@ -105,8 +105,7 @@ export default function QuickStart({ isServerInfo }) {
               REACT_APP_MORALIS_APPLICATION_ID = LhMjsA34zlX7TAw23fldHXT5bg3Y8lzP1KJ3CPuD
             </Text>
             <Text code delete={isServerInfo} style={{ display: "block" }}>
-              REACT_APP_MORALIS_SERVER_URL =
-              https://vixqb3ii8fcy.usemoralis.com:2053/server
+              REACT_APP_MORALIS_SERVER_URL = https://vixqb3ii8fcy.usemoralis.com:2053/server
             </Text>
           </Timeline.Item>
 
