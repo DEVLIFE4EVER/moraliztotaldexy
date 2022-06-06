@@ -89,7 +89,7 @@ export default function QuickStart({ isServerInfo }) {
 
           <Timeline.Item dot="🔏">
             <Text delete={isServerInfo} style={styles.text}>
-              Rename <Text code>.env.example</Text> to <Text code>.env</Text>{" "}
+              Rename <Text code>.env</Text> to <Text code>.env</Text>{" "}
               and provide your <Text strong>appId</Text> and{" "}
               <Text strong>serverUrl</Text> from{" "}
               <a
